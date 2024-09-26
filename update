@@ -1,0 +1,5 @@
+{
+    "latest_version": "1.0.1",
+    "download_url": "https://yourusername.github.io/your_application_updates/your_application_v1.0.1.exe",
+    "sha256": "your_sha256_checksum_here"
+}
